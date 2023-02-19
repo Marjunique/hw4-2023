@@ -77,7 +77,7 @@ img{
 
   /* Requirement 9 code here -- Do not remove this comment. */
 
-  .text{
+  .about, .clients, .method, .contact{
     align-self: center;
     max-height: 30vh;
     overflow: scroll;
